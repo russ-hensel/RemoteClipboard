@@ -1,3 +1,5 @@
+Status: seems to be working, not currently working on further enhancements, may come back to it or not.
+
 
 Running these 2 python programs on 2 computers allow you
 to cut and paste across the network connecting the two computers
